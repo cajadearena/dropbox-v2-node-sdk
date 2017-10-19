@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/cajadearena/dropbox-v2-node-sdk/issues"
   },
-  "homepage": "https://github.com/cajadearena/dropbox-v2-node-sdk#readme"
+  "homepage": "https://github.com/cajadearena/dropbox-v2-node-sdk#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^3.8.1"
+  }
 }
