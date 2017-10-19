@@ -1,0 +1,22 @@
+{
+  "name": "dropbox-v2-node-sdk",
+  "version": "1.0.0",
+  "description": "dropbox sdk",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajadearena/dropbox-v2-node-sdk.git"
+  },
+  "keywords": [
+    "dropbox"
+  ],
+  "author": "cajadearena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cajadearena/dropbox-v2-node-sdk/issues"
+  },
+  "homepage": "https://github.com/cajadearena/dropbox-v2-node-sdk#readme"
+}
